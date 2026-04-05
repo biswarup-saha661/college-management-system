@@ -1,6 +1,7 @@
 # College Management System
 
-A complete command-line application to manage college operations, built with Python and SQLite.
+A modular CLI-based College Management System built with Python and SQLite.  
+It manages student records, attendance, fees, and results with automated grading and performance tracking.
 
 ## Features
 
