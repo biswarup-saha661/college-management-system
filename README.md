@@ -34,3 +34,26 @@ It manages student records, attendance, fees, and results with automated grading
 - Modular architecture across 7 files
 
 ## Project Structure
+
+
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/biswarup-saha661/college-management-system.git
+cd college-management-system
+python main.py
+## 🖥️ Sample Output
+✅ Database and tables ready.
+
+
+--------------------------------------------------
+   🎓 COLLEGE MANAGEMENT SYSTEM
+--------------------------------------------------
+  1. Student Management
+  2. Fee Management
+  3. Results Management
+  4. Attendance Management
+  5. Exit
+--------------------------------------------------
+Enter your choice (1-5):
