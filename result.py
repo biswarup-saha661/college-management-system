@@ -97,4 +97,4 @@ def view_results():
     
     print(f"Overall : {total_obtained} / {total_possible}")
     print(f"Percentage : {percentage:.2f}%")
-    print(f"Overall Grade : {overall_grade}")
+    print(f"Overall Grade : {overall_grade}") 
